@@ -53,18 +53,18 @@ a:link {
 }
 
 a:visited {
-  color: gray;
+  color: white;
 }
 
 a:hover {
   text-decoration: none;
   color: white;
-  background-color: navy;
+  background-color: black;
 }
 
 a:active {
-  color: aqua;
-  background-color: navy;
+  color: green;
+  background-color: red;
 }
 
 .fun {
