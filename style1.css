@@ -10,7 +10,7 @@ body {
 }
 
 h1 {
-  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-family: Verdana, Helvetica, Arial, sans-serif;
   font-size: x-large;
 }
 
@@ -30,7 +30,7 @@ p {
 }
 
 #tagline p { 
-  font-family: Georgia, Times, serif;
+  font-family: Verdana, Helvetica, Arial, sans-serif;
 }
 
 em {
@@ -38,7 +38,7 @@ em {
 }
 
 h1, h2, h3 {
-  font-family: "Trebuchet MS", Helvetica, Arial, sans-serif;
+  font-family: Verdana, Helvetica, Arial, sans-serif;
   background-color: black;
   color: white;
 }
@@ -69,6 +69,6 @@ a:active {
 
 .fun {
   color: #339999;
-  font-family: Georgia, Times, serif;
+  font-family: Verdana, Helvetica, Arial, sans-serif;
   letter-spacing: 0.05em;
 }
