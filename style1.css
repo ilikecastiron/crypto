@@ -29,8 +29,7 @@ p {
   color: navy;
 }
 
-#tagline p {
-  font-style: italic;
+#tagline p { 
   font-family: Georgia, Times, serif;
 }
 
