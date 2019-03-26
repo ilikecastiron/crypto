@@ -63,8 +63,8 @@ a:hover {
 }
 
 a:active {
-  color: green;
-  background-color: red;
+  color: white;
+  background-color: black;
 }
 
 .fun {
